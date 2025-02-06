@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-pillow  # For image validation
-numpy  # Needed for AI processing
-scipy  # Needed for AI depth estimation
+pillow
+numpy
+scipy
