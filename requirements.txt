@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-numpy
-opencv-python
-torch
-transformers
-pillow
+pillow  # For image validation
+numpy  # Needed for AI processing
+scipy  # Needed for AI depth estimation
